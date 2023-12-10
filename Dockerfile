@@ -1,1 +1,1 @@
-FROM quay.io/cilium/hubble-ui:v0.10.0
+FROM quay.io/cilium/hubble-ui:v0.12.1
